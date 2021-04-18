@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "941aca2281f12daff19d82b6958a5ea1",
+    "revision": "5fc9f185f33869cdeecaff8f43df0a6d",
     "url": "/sengoku_test_for_mainnet/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sengoku_test_for_mainnet/static/js/9.86c11dda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab05927e9b6bd78b9ad0",
-    "url": "/sengoku_test_for_mainnet/static/js/main.acbf6c6d.chunk.js"
+    "revision": "88ff9425b86fe26581cc",
+    "url": "/sengoku_test_for_mainnet/static/js/main.8021bc04.chunk.js"
   },
   {
     "revision": "5502f5e1349f489e23cd",
